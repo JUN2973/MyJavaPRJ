@@ -13,10 +13,10 @@
 ## 🚀 About Me  
 
 - 💻 Passionate about **Coding & Open Source**  
-- 🌱 Currently learning **[Your Tech Stack]**  
+- 🌱 Currently learning **[Java]**  
 - 🎯 2024 Goals: **Build amazing projects & Contribute to Open Source**  
 - 📬 How to reach me: **[2520110184@office.kopo.ac.kr]**  
-- 😆 Fun Fact: **[A fun fact about yourself]**  
+- 😆 Have Fun  
 
 ---
 
