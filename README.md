@@ -13,7 +13,7 @@
 ## 🚀 About Me  
 
 - 💻 Passionate about **Coding & Open Source**  
-- 🌱 Currently learning **[Java]**  
+- 🌱 Currently learning **[Java & Spring boot]**  
 - 🎯 2024 Goals: **Build amazing projects & Contribute to Open Source**  
 - 📬 How to reach me: **[2520110184@office.kopo.ac.kr]**  
 - 😆 Have Fun!!!
