@@ -5,7 +5,7 @@
 
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">  
-  <b>Hello! I'm <span style="color:#F7B93E">Your Name</span> 👋</b>  
+  <b>Hello! I'm <span style="color:#F7B93E">JUN</span> 👋</b>  
 </p>  
 
 ---
@@ -15,7 +15,7 @@
 - 💻 Passionate about **Coding & Open Source**  
 - 🌱 Currently learning **[Your Tech Stack]**  
 - 🎯 2024 Goals: **Build amazing projects & Contribute to Open Source**  
-- 📬 How to reach me: **[Your Email]**  
+- 📬 How to reach me: **[2520110184@office.kopo.ac.kr]**  
 - 😆 Fun Fact: **[A fun fact about yourself]**  
 
 ---
