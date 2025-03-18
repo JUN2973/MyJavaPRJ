@@ -6,10 +6,10 @@
 ---
 
 ## 🚀 About Me
-- 🌱 I’m currently learning **[Your tech stack]**
+- 🌱 I’m currently learning **[Java]**
 - 💡 I love working on **Open-source projects**
 - 🎯 2024 Goals: **Contribute more to Open Source & Build cool projects**
-- 📫 How to reach me: **[Your Email]**
+- 📫 How to reach me: **[2520110184@office.kopo.ac.kr]**
 - 🎨 Fun Fact: **[A fun fact about yourself]**
 
 ---
