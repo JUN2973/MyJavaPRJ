@@ -6,10 +6,10 @@ public class asgmt8 {
 
         str = "1234";
         num1 = Integer.parseInt(str);
-        System.out.println("정수" + num1);
+        System.out.println("1234" + num1);
 
         str = "3.14";
         num2 = Double.parseDouble(str);
-        System.out.println("실수" + num2);
+        System.out.println("3.14" + num2);
     }
 }
