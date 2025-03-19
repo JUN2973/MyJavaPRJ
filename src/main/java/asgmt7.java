@@ -10,7 +10,7 @@ public class asgmt7 {
         System.out.println("사용자가 입력한 값" + num);
 
         String str;
-        System.out.print("문열을 입력하세요 : ");
+        System.out.print("문자열을 입력하세요 : ");
         str = s.next();
         System.out.println("사용자가 입력한 값" + str);
 
