@@ -7,11 +7,11 @@ public class asgmt7 {
         double num;
         System.out.println("3.14");
         num = s.nextDouble();
-        System.out.println("3.14" + num);
+        System.out.println("사용자가 입력한 값" + num);
 
         String str;
         System.out.println("난생처음");
         str = s.next();
-        System.out.println("난생처음" + str );
+        System.out.println("사용자가 입력한 값" + str );
     }
 }
