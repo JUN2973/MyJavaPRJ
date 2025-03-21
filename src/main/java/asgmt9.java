@@ -9,13 +9,13 @@ public class asgmt9 {
 
         System.out.print("## 택배 보내기입니다. 다음을 각각 입력하세요 ##");
 
-        System.out.print("받는 사람: 박준영 ");
+        System.out.print("받는 사람: ");
         personName = s.nextLine();
 
-        System.out.print("주소: 강서폴리텍 ");
+        System.out.print("주소: ");
         personAddr = s.nextLine();
 
-        System.out.print("무게(g): 500 ");
+        System.out.print("무게(g): ");
         weight = s.nextInt();
 
         System.out.println("** 받는사람: " + personName);
