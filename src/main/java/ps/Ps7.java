@@ -1,6 +1,8 @@
+package ps;
+
 import java.util.Scanner;
 
-public class Code03_10 {
+public class Ps7 {
     public static void main(String[]args){
         Scanner s = new Scanner(System.in);
 
