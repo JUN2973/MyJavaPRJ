@@ -1,3 +1,5 @@
+package school;
+
 public class Code04_07 {
     public static void main(String[] args) {
         String var1 = "작은따옴표는 \' 모양입니다.";

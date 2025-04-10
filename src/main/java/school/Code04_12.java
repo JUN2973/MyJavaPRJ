@@ -1,3 +1,5 @@
+package school;
+
 public class Code04_12 {
     public static void main(String[] args) {
         String ss = "First java를 공부 중입니다.";

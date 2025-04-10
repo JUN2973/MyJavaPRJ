@@ -1,3 +1,5 @@
+package school;
+
 public class Code02_08 {
     public static void main(String[] args) {
 

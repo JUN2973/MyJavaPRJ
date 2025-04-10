@@ -1,3 +1,5 @@
+package school;
+
 import java.util.Scanner;
 
 public class Code03_10 {

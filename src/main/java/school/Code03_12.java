@@ -1,3 +1,5 @@
+package school;
+
 public class Code03_12 {
     public static void main(String[] args) {
         int num = 99;

@@ -1,3 +1,5 @@
+package ps;
+
 public class Ps43 {
     public static void main(String[] args) {
 

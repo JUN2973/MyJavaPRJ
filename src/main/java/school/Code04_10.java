@@ -1,3 +1,5 @@
+package school;
+
 public class Code04_10 {
     public static void main(String[] args) {
         String str = "난생처음 자바";

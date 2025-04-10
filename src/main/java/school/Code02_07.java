@@ -1,3 +1,5 @@
+package school;
+
 public class Code02_07 {
     public static void main(String[] args) {
         int num1, num2, result;

@@ -1,3 +1,5 @@
+package school;
+
 public class Code04_08 {
     public static void main(String[] args) {
         String var1 = "난생처음 \n" +

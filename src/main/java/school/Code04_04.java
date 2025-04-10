@@ -1,3 +1,5 @@
+package school;
+
 public class Code04_04 {
     public static void main(String[] args) {
         boolean boo1, boo2;
