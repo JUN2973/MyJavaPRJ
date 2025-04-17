@@ -1,3 +1,5 @@
+package ps;
+
 public class Ps48 { //구구단출력
     public static void main(String[] args) {
 
