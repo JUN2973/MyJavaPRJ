@@ -1,4 +1,6 @@
-    class Rabbit {
+package ps;
+
+class Rabbit {
         String shape;
         int xPos;  //전역변수
         int yPos;
@@ -7,7 +9,7 @@
             this.xPos = x;   //this는 class를 의미한다
             this.yPos = y;
 
-            System.out.println("Rabbit setPostion(" + x + ", " + y + ")");
+            System.out.println("ps.Rabbit setPostion(" + x + ", " + y + ")");
         }
 }
 

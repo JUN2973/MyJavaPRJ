@@ -1,3 +1,5 @@
+package ps;
+
 public class Ps59 {
     public static void main(String[] args) {
         int hap = 0;

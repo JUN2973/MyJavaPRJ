@@ -1,3 +1,5 @@
+package ps;
+
 class Rabbit1 {
     String shape;
     int xPos;
